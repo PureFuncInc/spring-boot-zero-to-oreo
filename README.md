@@ -6,11 +6,11 @@
 * [Direct Access](https://miro.com/app/board/uXjVMLZjcL0=/)
 
 # Goal
-* 雖然我的確有這個奉獻的心態，但 Business 說實在才是我提高這件事優先序的原因
+* 雖然我的確有這個無私提攜分享的心態，但不多，Business 說實在才是我提高這件事優先序的原因 😂
 * 以終為始來看的話，最終我期待你能夠做出一些類似 FooTinder 功能的 API Service (Java, Kotlin, Spring, Redis, PostgreSQL)
-* 那開頭的話，我們從最基本最基本的開始，裝 JVM、裝 IDE
-* 我會以實戰為主，因為我想做的是在迷霧中先幫你開一條直路到目標，中間你想學什麼想繞到哪裡去都行，但我不會多著墨。
-* 那如果學到最後想要參考更進階更偏向實戰的部分的話，請參考這個 [Repo](https://github.com/PureFuncInc/pure-backend-practice)
+* 那開頭的話，我們從 **最基本最基本** 的開始，裝 JVM、裝 IDE
+* 我會以 **實戰** 為主，因為我想做的是在迷霧中先幫你開一條直路到目標，中間你想學什麼想繞到哪裡去都行，但我不會多著墨。
+* 那如果學到最後想要參考更 **進階** 更 **求職** 的部分的話，請參考這個 [Repo](https://github.com/PureFuncInc/pure-backend-practice)
 
 # 無情工商
 * https://footinder.app
