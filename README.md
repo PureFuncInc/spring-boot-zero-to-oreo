@@ -17,7 +17,7 @@
 * https://www.facebook.com/footinder
 * https://www.instagram.com/footinder.app/
 
-# 最後
+# Finally
 * 感謝我神出鬼沒的小助教們
 * 感謝 WSA 提供協助
 * 想告訴大家做了才是自己的，對於有人把我的 Repo 拿去自己實作然後得到工作或是成長的朋友我真心替他高興
