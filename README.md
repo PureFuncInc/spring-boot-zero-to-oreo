@@ -1,4 +1,4 @@
-# Spring Boot from Zero to Oreo
+# Spring Boot Zero to Oreo
 > Spring Boot 幼幼班
 
 # Miro
