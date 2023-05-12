@@ -2,8 +2,8 @@
 > Spring Boot 幼幼班
 
 # Miro
-* [Invite Link](https://miro.com/welcomeonboard/cUlrOWN3VXZDb2lUUE5nNVdBZGNhT1pickNMTGF2eEhXV211VEJqREJlQVhwSENvR1BjOUxYajFnTEphQThyUnwzNDU4NzY0NTE1ODg5MzM0MzM4fDI=?share_link_id=316878638413)
-* [Direct Access](https://miro.com/app/board/uXjVMLZjcL0=/)
+* [Invite Link](https://miro.com/welcomeonboard/c1A1aVRBdjlEZGVXM0hBdHJlMFhZNUZudDMzMUJWMDFKMTY3Z09maWY1WkNNSDV1QU1DeWFWbE9lQmcwdVlBVnwzNDU4NzY0NTE1ODg5MTc1ODU0fDI=?share_link_id=400989073147)
+* [Direct Access](https://miro.com/app/board/uXjVMJBurHI=/?share_link_id=407161710409)
 
 # 前言
 * 雖然我的確有這個無私提攜分享的心態，但不多，Business 說實在才是我提高這件事優先序的原因 😂
