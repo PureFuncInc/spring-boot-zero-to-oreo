@@ -1,10 +1,6 @@
 # Spring Boot Zero to Oreo
 > Spring Boot 幼幼班
 
-# Miro
-* [Invite Link](https://miro.com/welcomeonboard/c1A1aVRBdjlEZGVXM0hBdHJlMFhZNUZudDMzMUJWMDFKMTY3Z09maWY1WkNNSDV1QU1DeWFWbE9lQmcwdVlBVnwzNDU4NzY0NTE1ODg5MTc1ODU0fDI=?share_link_id=400989073147)
-* [Direct Access](https://miro.com/app/board/uXjVMJBurHI=/?share_link_id=407161710409)
-
 # 前言
 * 雖然我的確有這個無私提攜分享的心態，但不多，Business 說實在才是我提高這件事優先序的原因 😂
 * 我想請你們幫我，但我不會幫讓你們出力，win win，一起為了共同體努力
@@ -15,10 +11,10 @@
 * 我會以 **實戰** 為主，因為我想做的是在迷霧中先幫你開一條直路到目標，中間你想學什麼想繞到哪裡去都行，但我不會多著墨
 <img width="698" alt="CleanShot 2023-05-10 at 23 31 34@2x" src="https://github.com/PureFuncInc/spring-boot-zero-to-oreo/assets/6296280/088a4c41-a828-4fb6-b6ff-4dd22c615159">
 
-* 那如果學到最後想要參考更 **進階** 更 **求職** 的部分的話，請參考這個 [Repo](https://github.com/PureFuncInc/pure-backend-practice)，算是我類似東西做四次的集大成者
+* 那如果學到最後想要參考更 **進階** 更 **求職** 的部分的話，請參考這個 [Repo](https://github.com/PureFuncInc/pure-backend-practice)，算是我類似東西做第四次的集大成者
 
 # 每週五晚上八點半，至少有五次，看狀況調整
-* [第 0️⃣ 次 05-12]()
+* [第 0️⃣ 次 05-12](https://miro.com/app/board/uXjVMJXYaeQ=/?share_link_id=555873641409)
 * [第 1️⃣ 次 05-19]()
 * [第 2️⃣ 次 05-26]()
 * [第 3️⃣ 次 06-02]()
@@ -29,6 +25,8 @@
 * https://footinder.app
 * https://www.facebook.com/footinder
 * https://www.instagram.com/footinder.app/
+* https://www.tiktok.com/@footinder
+* https://www.youtube.com/@Footinder
 
 # Finally
 * 感謝我神出鬼沒的小助教們
