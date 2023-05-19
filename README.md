@@ -15,7 +15,7 @@
 
 # 每週五晚上八點半，至少有五次，看狀況調整
 * [第 0️⃣ 次 05-12](https://miro.com/app/board/uXjVMJXYaeQ=/?share_link_id=555873641409)
-* [第 1️⃣ 次 05-19]()
+* [第 1️⃣ 次 05-19](https://miro.com/app/board/uXjVMHYVGLI=/?share_link_id=282914156887)
 * [第 2️⃣ 次 05-26]()
 * [第 3️⃣ 次 06-02]()
 * [第 4️⃣ 次 06-09]()
