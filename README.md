@@ -17,6 +17,8 @@
 * [第 0️⃣ 次 05-12](https://miro.com/app/board/uXjVMJXYaeQ=/?share_link_id=555873641409)
 * [第 1️⃣ 次 05-19](https://miro.com/app/board/uXjVMHYVGLI=/?share_link_id=282914156887)
 * [第 2️⃣ 次 05-26](https://miro.com/app/board/uXjVME04qk4=/?share_link_id=994248907426)
+* [第 3️⃣ 次 06-02](https://miro.com/app/board/uXjVMCFKU_M=/?share_link_id=329069260376)
+* [第 4️⃣ 次 06-09](https://miro.com/app/board/uXjVMASbq-U=/?share_link_id=702488258148)
 
 # 無情工商
 * https://footinder.app
