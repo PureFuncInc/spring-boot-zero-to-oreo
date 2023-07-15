@@ -25,7 +25,7 @@
 * [第 8️⃣ 次 07-14]()
 
 # 影片
-* [正著寫 CRUD][https://youtu.be/m_goDvWJijk]
+* [正著寫 CRUD](https://youtu.be/m_goDvWJijk)
 * [反著寫 CRUD](https://youtu.be/UVlvWuLNIbI)
 
 # 無情工商
