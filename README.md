@@ -21,8 +21,8 @@
 * [第 4️⃣ 次 06-09](https://miro.com/app/board/uXjVMASbq-U=/?share_link_id=702488258148)
 * [第 5️⃣ 次 06-16](https://miro.com/app/board/uXjVM-ZC5rs=/?share_link_id=904543401455)
 * [第 6️⃣ 次 06-23](https://miro.com/app/board/uXjVM8eYYGo=/?share_link_id=392086084391)
-* [第 7️⃣ 次 06-30]()
-* [第 8️⃣ 次 07-14]()
+* [第 7️⃣ 次 06-30](https://miro.com/app/board/uXjVM6cm_Vk=/?share_link_id=206244480084)
+* [第 8️⃣ 次 07-14](https://miro.com/app/board/uXjVM2f64L8=/?share_link_id=115791707579)
 
 # 影片
 * [正著寫 CRUD](https://youtu.be/m_goDvWJijk)
