@@ -14,15 +14,16 @@
 * 那如果學到最後想要參考更 **進階** 更 **求職** 的部分的話，請參考這個 [Repo](https://github.com/PureFuncInc/pure-backend-practice)，算是我類似東西做第四次的集大成者，這次是第五次
 
 # 每週五晚上八點半，至少有五次，看狀況調整
-* [第 0️⃣ 次 05-12](https://miro.com/app/board/uXjVMJXYaeQ=/?share_link_id=555873641409)
-* [第 1️⃣ 次 05-19](https://miro.com/app/board/uXjVMHYVGLI=/?share_link_id=282914156887)
-* [第 2️⃣ 次 05-26](https://miro.com/app/board/uXjVME04qk4=/?share_link_id=994248907426)
-* [第 3️⃣ 次 06-02](https://miro.com/app/board/uXjVMCFKU_M=/?share_link_id=329069260376)
-* [第 4️⃣ 次 06-09](https://miro.com/app/board/uXjVMASbq-U=/?share_link_id=702488258148)
-* [第 5️⃣ 次 06-16](https://miro.com/app/board/uXjVM-ZC5rs=/?share_link_id=904543401455)
-* [第 6️⃣ 次 06-23](https://miro.com/app/board/uXjVM8eYYGo=/?share_link_id=392086084391)
-* [第 7️⃣ 次 06-30](https://miro.com/app/board/uXjVM6cm_Vk=/?share_link_id=206244480084)
-* [第 8️⃣ 次 07-14](https://miro.com/app/board/uXjVM2f64L8=/?share_link_id=115791707579)
+* [第 0️0 次 05-12](https://miro.com/app/board/uXjVMJXYaeQ=/?share_link_id=555873641409)
+* [第 01 次 05-19](https://miro.com/app/board/uXjVMHYVGLI=/?share_link_id=282914156887)
+* [第 02 次 05-26](https://miro.com/app/board/uXjVME04qk4=/?share_link_id=994248907426)
+* [第 03 次 06-02](https://miro.com/app/board/uXjVMCFKU_M=/?share_link_id=329069260376)
+* [第 04 次 06-09](https://miro.com/app/board/uXjVMASbq-U=/?share_link_id=702488258148)
+* [第 05 次 06-16](https://miro.com/app/board/uXjVM-ZC5rs=/?share_link_id=904543401455)
+* [第 06 次 06-23](https://miro.com/app/board/uXjVM8eYYGo=/?share_link_id=392086084391)
+* [第 07 次 06-30](https://miro.com/app/board/uXjVM6cm_Vk=/?share_link_id=206244480084)
+* [第 08 次 07-14](https://miro.com/app/board/uXjVM2f64L8=/?share_link_id=115791707579)
+* [第 09 次 08-04](https://miro.com/app/board/uXjVM0SXMpw=/?share_link_id=543960981167)
 
 # 影片
 * [正著寫 CRUD](https://youtu.be/m_goDvWJijk)
@@ -34,6 +35,7 @@
 * https://www.instagram.com/footinder.app/
 * https://www.tiktok.com/@footinder
 * https://www.youtube.com/@Footinder
+* https://line.me/ti/g2/Vkmxc4Jxj-gX_T5J8VvPxugCd4eXYgC0WHuxzw
 
 # Finally
 * 感謝我神出鬼沒的小助教們
